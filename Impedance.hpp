@@ -1,9 +1,5 @@
-/*
- * Impedance.hpp
- *
- *  Created on: Aug 2, 2016
- *      Author: joose
- */
+// Author : Joose Rajamäki
+// Date: 22.8.2016
 
 #ifndef IMPEDANCE_HPP_
 #define IMPEDANCE_HPP_
