@@ -1,10 +1,5 @@
-//============================================================================
-// Name        : main_test.cpp
-// Author      : Joose Rajamäki
-// Version     :
-// Copyright   : All rights reserved
-// Description :
-//============================================================================
+// Author : Joose Rajamäki
+// Date: 22.8.2016
 
 #include <iostream>
 #include <Dense> //Includes Eigen-library's dense matrices.
