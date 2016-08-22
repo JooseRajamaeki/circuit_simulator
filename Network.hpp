@@ -1,9 +1,5 @@
-/*
- * Network.hpp
- *
- *  Created on: Aug 17, 2016
- *      Author: joose
- */
+// Author : Joose Rajamäki
+// Date: 22.8.2016
 
 #ifndef NETWORK_HPP_
 #define NETWORK_HPP_
