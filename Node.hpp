@@ -1,4 +1,5 @@
-
+// Author : Joose Rajamäki
+// Date: 22.8.2016
 
 #ifndef NODE_HPP_
 #define NODE_HPP_
